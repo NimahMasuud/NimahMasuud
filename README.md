@@ -1,9 +1,9 @@
 # Hi, I'm Nimah 👋🏾
 
 **AI/ML Engineer · Lagos, Nigeria**  
-Building production AI systems for African contexts — from agentic pipelines and RAG architectures to intelligent document processing and cloud-native ML.
+Building production AI systems for African contexts from agentic pipelines and RAG architectures to intelligent document processing and cloud-native ML.
 
-Currently shipping at **Infinion** (banking & enterprise AI), **Nest Africa AI Innovation Lab** (African development challenges), and **Africa Sustainable Energy Centre** (AI in energy policy).
+Currently shipping at **Infinion** , **Nest Africa AI Innovation Lab** (African development challenges), and **Africa Sustainable Energy Centre** (AI in energy policy).
 
 ---
 
@@ -41,7 +41,7 @@ Production AI pipeline using Azure Document Intelligence OCR and Python validati
 ---
 
 ### [SPE Africa Geothermal Datathon 2026](https://github.com/NimahMasuud/agd2026-geothermal-ai)
-Team Lead — AI-assisted geothermal feasibility assessment for Rotliegend sandstone wells in Utrecht, Netherlands. 8-notebook ML pipeline covering log imputation, permeability prediction, feasibility scoring, and an interactive scenario dashboard.  
+Team Lead : AI-assisted geothermal feasibility assessment for Rotliegend sandstone wells in Utrecht, Netherlands. 8-notebook ML pipeline covering log imputation, permeability prediction, feasibility scoring, and an interactive scenario dashboard.  
 `Python` `Jupyter` `ML Pipeline` `Geospatial AI` `Team Lead`
 
 ---
